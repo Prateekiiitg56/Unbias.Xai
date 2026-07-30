@@ -49,7 +49,7 @@ function buildBookingEmail(data: BookingPayload) {
         <h1 style="margin:0;font-size:22px;font-weight:800;color:#000;letter-spacing:-0.5px">
           🗓️ New Call Booked!
         </h1>
-        <p style="margin:6px 0 0;font-size:13px;color:#333">Someone just scheduled a call on AiBuildSpace</p>
+        <p style="margin:6px 0 0;font-size:13px;color:#333">Someone just scheduled a call on Unbias.Xai</p>
       </div>
       <div style="padding:32px">
         <table style="width:100%;border-collapse:collapse">
@@ -100,7 +100,7 @@ function buildContactEmail(data: ContactPayload) {
         <h1 style="margin:0;font-size:22px;font-weight:800;color:#000;letter-spacing:-0.5px">
           📬 New Contact Submission
         </h1>
-        <p style="margin:6px 0 0;font-size:13px;color:#333">Someone filled out the contact form on AiBuildSpace</p>
+        <p style="margin:6px 0 0;font-size:13px;color:#333">Someone filled out the contact form on Unbias.Xai</p>
       </div>
       <div style="padding:32px">
         <table style="width:100%;border-collapse:collapse">
@@ -194,7 +194,7 @@ export async function POST(request: NextRequest) {
 
     // Send email
     await transporter.sendMail({
-      from: `"AiBuildSpace" <${process.env.SMTP_USER}>`,
+      from: `"Unbias.Xai" <${process.env.SMTP_USER}>`,
       to: process.env.NOTIFY_EMAIL || process.env.SMTP_USER,
       replyTo: body.email,
       subject: emailContent.subject,

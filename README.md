@@ -1,6 +1,6 @@
 <div align="center">
 
-# AIBUILDSPACE
+# UNBIAS.XAI
 
 ### Bespoke Web Design & Cognitive Automation Agency
 
@@ -16,7 +16,7 @@
 
 ## OVERVIEW & MISSION
 
-**AiBuildSpace** crafts custom, high-fidelity digital platforms and engineers bespoke AI/cognitive automation pipelines for ambitious brands and growing enterprises.
+**Unbias.Xai** crafts custom, high-fidelity digital platforms and engineers bespoke AI/cognitive automation pipelines for ambitious brands and growing enterprises.
 
 > **MOTIVE: Zero Templates. Pure Operational Power.**
 
@@ -72,17 +72,17 @@ We eliminate generic web design bloat and replace manual workflows with intellig
 
 ## DIGITAL ECOSYSTEM
 
-* **Main Studio**: [AiBuildSpace](https://aibuild.space)
+* **Main Studio**: [Unbias.Xai](https://unbias.xai)
 * **Portfolio**: [Prateek's Portfolio](https://prateek-portfolio-tau.vercel.app/)
-* **Instagram**: [@aibuild.space](https://instagram.com/aibuild.space)
-* **Direct Contact**: `AiBuildSpacee@gmail.com`
+* **Instagram**: [@unbias.xai](https://instagram.com/unbias.xai)
+* **Direct Contact**: `unbias.xai@gmail.com`
 
 ---
 
 <div align="center">
 
 ```
-AiBuildSpace © 2026 | ALL RIGHTS RESERVED
+Unbias.Xai © 2026 | ALL RIGHTS RESERVED
 ```
 
 </div>

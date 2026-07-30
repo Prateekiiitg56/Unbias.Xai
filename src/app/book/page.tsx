@@ -39,11 +39,11 @@ export default function BookPage() {
       <footer className="border-t border-white/5 bg-black/40 py-12 px-6 overflow-hidden relative z-10">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6 relative z-10">
           <div className="text-sm font-mono text-white/30">
-            AiBuildSpace © 2026. ALL RIGHTS RESERVED.
+            Unbias.Xai © 2026. ALL RIGHTS RESERVED.
           </div>
           <div className="flex gap-8 text-xs font-mono text-white/30">
             <a
-              href="https://instagram.com/aibuild.space"
+              href="https://instagram.com/unbias.xai"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-accent transition-colors flex items-center gap-1"

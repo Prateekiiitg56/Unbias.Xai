@@ -211,7 +211,7 @@ export default function BentoServices() {
                 <div className="w-2.5 h-2.5 rounded-full bg-white/10" />
                 <div className="w-2.5 h-2.5 rounded-full bg-white/10" />
                 <div className="w-36 h-4 bg-white/5 rounded-md ml-4 text-[9px] text-white/30 flex items-center px-2">
-                  aibuildspace.agency
+                  unbias.xai
                 </div>
               </div>
               <div className="flex-1 p-4 flex gap-4">

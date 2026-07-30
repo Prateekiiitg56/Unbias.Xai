@@ -41,7 +41,7 @@ export default function Navbar() {
         <div className="max-w-7xl mx-auto flex items-center justify-between">
           {/* Logo */}
           <a href="#" className="text-xl font-black tracking-widest text-white flex items-center gap-1.5 font-display select-none">
-            AiBuildSpace<span className="text-accent animate-pulse">.</span>
+            Unbias.Xai<span className="text-accent animate-pulse">.</span>
           </a>
 
           {/* Links (Desktop) */}
@@ -112,7 +112,7 @@ export default function Navbar() {
                 <ArrowUpRight className="w-5 h-5" />
               </Link>
               <div className="text-[10px] uppercase tracking-widest text-white/30 font-mono text-center">
-                AiBuildSpace © 2026
+                Unbias.Xai © 2026
               </div>
             </div>
           </motion.div>

@@ -3,16 +3,16 @@ import "./globals.css";
 
 
 export const metadata: Metadata = {
-  title: "AiBuildSpace | High-End Web Design & Cognitive Automation Agency",
+  title: "Unbias.Xai | High-End Web Design & Cognitive Automation Agency",
   description: "We craft custom, high-fidelity Next.js storefronts and engineer bespoke AI/automation pipelines for small businesses. Zero templates. Pure operational power.",
-  metadataBase: new URL("https://aibuild.space"),
+  metadataBase: new URL("https://unbias.xai"),
   icons: {
     icon: "/icon.svg",
     shortcut: "/icon.svg",
     apple: "/icon.svg",
   },
   openGraph: {
-    title: "AiBuildSpace | Boutique Digital Studio",
+    title: "Unbias.Xai | Boutique Digital Studio",
     description: "Bespoke web design and automation pipelines for ambitious brands.",
     type: "website",
   }

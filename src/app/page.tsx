@@ -115,7 +115,7 @@ export default function Home() {
                 <div className="w-10 h-10 rounded-xl bg-white/5 border border-white/5 flex items-center justify-center text-accent">
                   <Mail className="w-5 h-5" />
                 </div>
-                <span>AiBuildSpacee@gmail.com</span>
+                <span>unbias.xai@gmail.com</span>
               </div>
               <div className="flex items-center gap-3.5">
                 <div className="w-10 h-10 rounded-xl bg-white/5 border border-white/5 flex items-center justify-center text-accent">
@@ -124,7 +124,7 @@ export default function Home() {
                 <span>Remote Operations Worldwide</span>
               </div>
               <a 
-                href="https://instagram.com/aibuild.space" 
+                href="https://instagram.com/unbias.xai" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="flex items-center gap-3.5 hover:text-accent transition-colors group"
@@ -133,7 +133,7 @@ export default function Home() {
                   <Instagram className="w-5 h-5" />
                 </div>
                 <span className="flex items-center gap-1.5">
-                  @aibuild.space
+                  @unbias.xai
                   <ExternalLink className="w-3.5 h-3.5 opacity-45 group-hover:opacity-100 transition-opacity" />
                 </span>
               </a>
@@ -270,10 +270,10 @@ export default function Home() {
         <div className="bg-crosshatch" />
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6 relative z-10">
           <div className="text-sm font-mono text-white/30">
-            AiBuildSpace © 2026. ALL RIGHTS RESERVED.
+            Unbias.Xai © 2026. ALL RIGHTS RESERVED.
           </div>
           <div className="flex gap-8 text-xs font-mono text-white/30">
-            <a href="https://instagram.com/aibuild.space" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors flex items-center gap-1">INSTAGRAM <ExternalLink className="w-3 h-3" /></a>
+            <a href="https://instagram.com/unbias.xai" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors flex items-center gap-1">INSTAGRAM <ExternalLink className="w-3 h-3" /></a>
             <a href="https://prateek-portfolio-tau.vercel.app/" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors flex items-center gap-1">PORTFOLIO <ExternalLink className="w-3 h-3" /></a>
           </div>
         </div>
