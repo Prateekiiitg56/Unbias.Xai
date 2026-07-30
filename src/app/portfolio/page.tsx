@@ -51,36 +51,6 @@ const PROJECTS: Project[] = [
   },
   {
     id: 3,
-    title: "StudyBuddy Chrome Extension",
-    category: "Browser Extension",
-    filterCategory: "automation",
-    technologies: "JavaScript, Chrome Extension API (v3), HTML5, CSS3",
-    link: "https://github.com/Prateekiiitg56/StudyBuddy-Chrome-Extension",
-    description:
-      "A productivity side-panel extension that provides AI-driven educational assistance and answers student queries in real-time.",
-  },
-  {
-    id: 4,
-    title: "Music Prediction Model",
-    category: "Machine Learning",
-    filterCategory: "ml",
-    technologies: "Python, Pandas, Scikit-Learn, Matplotlib, NumPy",
-    link: "https://github.com/Prateekiiitg56/Music-Prediction-using-ML.git",
-    description:
-      "A machine learning pipeline that analyzes listener data to predict music preferences and genres, with reporting and visualization.",
-  },
-  {
-    id: 5,
-    title: "CodeCapsule",
-    category: "Full Stack",
-    filterCategory: "fullstack",
-    technologies: "React, Node.js, Local Storage, IndexedDB, Express",
-    link: "https://github.com/Prateekiiitg56/CodeCapsule",
-    description:
-      "A secure environment for code storage and management, designed for handling sensitive snippets and rapid project documentation.",
-  },
-  {
-    id: 6,
     title: "The Matrix (LateCode)",
     category: "Full Stack / EdTech",
     filterCategory: "fullstack",
@@ -91,17 +61,7 @@ const PROJECTS: Project[] = [
       "A dual-world gamified learning OS. The Red Pill launches a brutalist DSA tracker with MongoDB-backed problem sets. The Blue Pill opens The Construct — a Python curriculum with in-browser WASM execution via Pyodide.",
   },
   {
-    id: 7,
-    title: "SmartScribe",
-    category: "AI / Full Stack",
-    filterCategory: "ai",
-    technologies: "React, Vite, FastAPI, Python, SQLite, JWT, Google OAuth, OpenRouter API",
-    link: "https://github.com/Prateekiiitg56/SmartScribe.git",
-    description:
-      "AI-powered essay evaluator that provides instant feedback on grammar, coherence, and argumentation strength. Features Google OAuth, JWT authentication, Monaco-style editor, and user evaluation history.",
-  },
-  {
-    id: 8,
+    id: 4,
     title: "Sketch-to-Color GAN",
     category: "Deep Learning / Computer Vision",
     filterCategory: "ml",
@@ -111,7 +71,7 @@ const PROJECTS: Project[] = [
       "A conditional GAN (cGAN) that colorizes anime-style sketches using Pix2Pix architecture. The U-Net generator maps black-and-white sketches to full-color images while PatchGAN discriminator enforces fine-grained realism.",
   },
   {
-    id: 9,
+    id: 5,
     title: "Automated Documentation Agent",
     category: "AI / Automation",
     filterCategory: "automation",
@@ -121,7 +81,7 @@ const PROJECTS: Project[] = [
       "Automated agent that generates docs, blogs, and video scripts on every GitHub PR merge using n8n and Groq AI. Automatically turns code merges into complete documentation in seconds.",
   },
   {
-    id: 10,
+    id: 6,
     title: "AuraSpot",
     category: "Full Stack / Real-time",
     filterCategory: "fullstack",
@@ -132,7 +92,7 @@ const PROJECTS: Project[] = [
       "A real-time real estate platform for finding, buying, or selling hostels, PGs, and houses with localized discovery and seamless user interaction.",
   },
   {
-    id: 11,
+    id: 7,
     title: "Matinee",
     category: "AI / Recommender System",
     filterCategory: "ai",
