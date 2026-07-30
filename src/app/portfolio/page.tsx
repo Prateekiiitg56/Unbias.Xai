@@ -102,6 +102,28 @@ const PROJECTS: Project[] = [
     description:
       "A self-contained, hybrid movie recommendation engine with Tinder-style swipe physics. Features dual algorithms (Content-Based & Collaborative Filtering via Pearson Correlation), real-time TMDB API catalog fetching, and dynamic blending.",
   },
+  {
+    id: 8,
+    title: "CaptionAI",
+    category: "AI / Content Generation",
+    filterCategory: "ai",
+    technologies: "React, Next.js, Python, OpenAI API, Tailwind CSS",
+    link: "https://github.com/Prateekiiitg56/CaptionAI",
+    deploy: "https://caption-ai-kappa-taupe.vercel.app/",
+    description:
+      "An AI-driven image captioning and content generation platform that generates engaging, context-aware captions and hashtags for social media assets.",
+  },
+  {
+    id: 9,
+    title: "CondBot",
+    category: "AI / Automation Bot",
+    filterCategory: "automation",
+    technologies: "Python, FastAPI, LLM Pipelines, Webhooks, Automation Engines",
+    link: "https://github.com/Prateekiiitg56/CondBot",
+    deploy: "https://cond-bot.vercel.app/",
+    description:
+      "An intelligent automation bot for conditional workflow execution, real-time trigger monitoring, and automated smart bot interactions.",
+  },
 ];
 
 export default function PortfolioPage() {
