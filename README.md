@@ -73,7 +73,6 @@ We eliminate generic web design bloat and replace manual workflows with intellig
 ## DIGITAL ECOSYSTEM
 
 * **Main Studio**: [Unbias.Xai](https://unbias.xai)
-* **Portfolio**: [Prateek's Portfolio](https://prateek-portfolio-tau.vercel.app/)
 * **Instagram**: [@unbias.xai](https://instagram.com/unbias.xai)
 * **Direct Contact**: `unbias.xai@gmail.com`
 

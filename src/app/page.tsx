@@ -137,20 +137,6 @@ export default function Home() {
                   <ExternalLink className="w-3.5 h-3.5 opacity-45 group-hover:opacity-100 transition-opacity" />
                 </span>
               </a>
-              <a 
-                href="https://prateek-portfolio-tau.vercel.app/" 
-                target="_blank" 
-                rel="noopener noreferrer" 
-                className="flex items-center gap-3.5 hover:text-accent transition-colors group"
-              >
-                <div className="w-10 h-10 rounded-xl bg-white/5 border border-white/5 flex items-center justify-center text-accent group-hover:border-accent/40 transition-colors">
-                  <ExternalLink className="w-5 h-5" />
-                </div>
-                <span className="flex items-center gap-1.5">
-                  Prateek's Portfolio
-                  <ExternalLink className="w-3.5 h-3.5 opacity-45 group-hover:opacity-100 transition-opacity" />
-                </span>
-              </a>
             </motion.div>
           </div>
 
@@ -274,7 +260,6 @@ export default function Home() {
           </div>
           <div className="flex gap-8 text-xs font-mono text-white/30">
             <a href="https://instagram.com/unbias.xai" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors flex items-center gap-1">INSTAGRAM <ExternalLink className="w-3 h-3" /></a>
-            <a href="https://prateek-portfolio-tau.vercel.app/" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors flex items-center gap-1">PORTFOLIO <ExternalLink className="w-3 h-3" /></a>
           </div>
         </div>
       </footer>

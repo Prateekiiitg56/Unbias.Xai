@@ -50,14 +50,6 @@ export default function BookPage() {
             >
               INSTAGRAM <ExternalLink className="w-3 h-3" />
             </a>
-            <a
-              href="https://prateek-portfolio-tau.vercel.app/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-accent transition-colors flex items-center gap-1"
-            >
-              PORTFOLIO <ExternalLink className="w-3 h-3" />
-            </a>
           </div>
         </div>
       </footer>
