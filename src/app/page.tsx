@@ -259,6 +259,7 @@ export default function Home() {
             Unbias.Xai © 2026. ALL RIGHTS RESERVED.
           </div>
           <div className="flex gap-8 text-xs font-mono text-white/30">
+            <a href="/privacy" className="hover:text-accent transition-colors">PRIVACY</a>
             <a href="https://instagram.com/unbias.xai" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors flex items-center gap-1">INSTAGRAM <ExternalLink className="w-3 h-3" /></a>
           </div>
         </div>
